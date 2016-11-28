@@ -1,13 +1,15 @@
 
 #verseDiv{
-margin-top: 50px;
+margin-top: 40px;
 font-size: 21px;
+padding: 10px;
 }
 
 
 #paraDiv{
-margin-top: 50px;
-width: 80%;
+margin-top: 40px;
+// width: 80%;
+padding: 10px;
 }
 
 
